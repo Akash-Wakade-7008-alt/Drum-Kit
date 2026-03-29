@@ -84,7 +84,7 @@ background-image: url(./images/snare.png);
 
 .drum {
   outline: none;
-  border: none;
+  border: 10px solid #3c5498;
   font-size: 2rem;
   font-weight: bold;
   border-radius: 20px;

@@ -24,12 +24,15 @@ It’s a small project, but it captures something essential:
 
 ## 🎬 Experience
 
+⭐ **Experience the website live here:**  
+👉 https://drum-kit-ten-sand.vercel.app/
+
 <p align="center">
   <img src="./images/Preview.png" width="100%"/>
 </p>
 
-
 ---
+
 ## 📂 Project Structure
 
 ```
@@ -63,10 +66,10 @@ Drum-Kit/
 
 ## 🎯 Core Interactions
 
-* Press keys → **W A S D J K L**
-* Click buttons → **Instant drum sounds**
-* Visual feedback → **Press animation + glow**
-* Response time → **Near-instant (no lag)**
+- Press keys → **W A S D J K L**
+- Click buttons → **Instant drum sounds**
+- Visual feedback → **Press animation + glow**
+- Response time → **Near-instant (no lag)**
 
 Every input is mapped deliberately, keeping the experience tight and predictable.
 
@@ -76,10 +79,10 @@ Every input is mapped deliberately, keeping the experience tight and predictable
 
 At its core, the app listens and responds:
 
-* Captures **keyboard events** and **click events**
-* Maps each input to a **specific sound file**
-* Plays audio using JavaScript’s native `Audio` API
-* Triggers a short-lived **animation state** for tactile feedback
+- Captures **keyboard events** and **click events**
+- Maps each input to a **specific sound file**
+- Plays audio using JavaScript’s native `Audio` API
+- Triggers a short-lived **animation state** for tactile feedback
 
 This is event-driven UI in its simplest, cleanest form.
 
@@ -109,16 +112,15 @@ Runs entirely in the browser—no build step required.
 
 ---
 
-
 ## 🌱 Where This Can Go
 
 This project is intentionally simple—but extensible:
 
-* Add **record & playback**
-* Introduce **multiple drum kits**
-* Improve with **touch gestures (mobile)**
-* Add **sound visualizers / wave effects**
-* Deploy as a **full interactive music tool**
+- Add **record & playback**
+- Introduce **multiple drum kits**
+- Improve with **touch gestures (mobile)**
+- Add **sound visualizers / wave effects**
+- Deploy as a **full interactive music tool**
 
 ---
 
@@ -139,10 +141,6 @@ Small projects like this are where strong frontend instincts are formed.
 ## 🎵 Final Note
 
 > Good interfaces respond.
-> Great interfaces *feel*.
+> Great interfaces _feel_.
 
 ---
-
-
-
-
