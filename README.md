@@ -25,12 +25,9 @@ It’s a small project, but it captures something essential:
 ## 🎬 Experience
 
 <p align="center">
-  <img src="./images/Preview.png" width="650"/>
+  <img src="./images/Preview.png" width="100%"/>
 </p>
 
-<p align="center">
-  🔗 <a href="#">Try it Live</a>
-</p>
 
 ---
 ## 📂 Project Structure
