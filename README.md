@@ -25,7 +25,7 @@ It’s a small project, but it captures something essential:
 ## 🎬 Experience
 
 ⭐ **Experience the website live here:**  
-👉 https://drum-kit-ten-sand.vercel.app/
+👉 https://akash-wakade-7008-alt.github.io/Drum-Kit/
 
 <p align="center">
   <img src="./images/Preview.png" width="100%"/>
