@@ -1,46 +1,59 @@
-let tom1=new Audio("./sounds/tom-1.mp3");
-let tom2=new Audio("./sounds/tom-2.mp3");
-let tom3= new Audio("./sounds/tom-3.mp3");
-let tom4=new Audio("./sounds/tom-4.mp3");
-let crash = new Audio("./sounds/crash.mp3");
-let kickBass=new Audio("./sounds/kick-bass.mp3");
-let snare = new Audio("./sounds/snare.mp3");
 
-//let audio = new Audio("./sounds/tom-1.mp3");
-// audio.paly();
+let numOfDrumBtn = document.querySelectorAll(".drum").length;
 
-
-document.querySelector(".w").addEventListener("click",()=>
+for(let i=0;i<numOfDrumBtn;i++)
 {
-    tom1.play();
-});
 
-document.querySelector(".a").addEventListener("click",()=>
+document.querySelectorAll(".drum")[i].addEventListener("click",function()
 {
-    tom2.play();
-});
 
-document.querySelector(".s").addEventListener("click",()=>
-{
-    tom3.play();
-});
+let btnInnerHTML = this.innerHTML;
 
-document.querySelector(".d").addEventListener("click",()=>
+switch(btnInnerHTML)
 {
-    tom4.play();
-});
+    case "w":
+        let tom1 = new Audio("./sounds/tom-1.mp3");
+        tom1.play();
+        break;
 
-document.querySelector(".j").addEventListener("click",()=>
-{
-    crash.play();
-});
+    case "a":
+        let tom2= new Audio("./sounds/tom-2.mp3");
+        tom2.play();
+        break;
+        
+    case  "s":
+        let tom3 = new Audio("./sounds/tom-3.mp3");
+        tom3.play();
+        break;
 
-document.querySelector(".k").addEventListener("click",()=>
-{
-    kickBass.play();
-});
+    case "d":
+        let tom4 = new Audio("./sounds/tom-4.mp3");
+        tom4.play();
+        break;
 
-document.querySelector(".l").addEventListener("click",()=>
-{
-    snare.play();
+    case "j":
+        let crash = new Audio("./sounds/crash.mp3");
+        crash.play();
+        break;
+
+    
+  case "k":
+        let kickBass = new Audio("./sounds/kick-bass.mp3");
+        kickBass.play();
+        break;
+
+          case "l":
+        let snare = new Audio("./sounds/snare.mp3");
+        snare.play();
+        break;
+
+
+}
+
+
+
+
+
+
 });
+}
