@@ -1,8 +1,7 @@
-
-
 <p align="center">
   <h1>🥁 Drum Kit — Interactive Web Experience</h1>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-JavaScript-yellow?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/UI-CSS-blue?style=for-the-badge&logo=css3">
