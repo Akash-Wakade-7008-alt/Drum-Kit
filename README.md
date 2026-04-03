@@ -110,7 +110,7 @@ No frameworks. No dependencies. Just fundamentals.
 ### Option 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/drum-kit.git
+git clone https://github.com/Akash-Wakade-7008-alt/Drum-Kit.git
 cd drum-kit
 open index.html
 ```
