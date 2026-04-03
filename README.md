@@ -115,8 +115,6 @@ cd drum-kit
 open index.html
 ```
 
----
-
 ### 📦 Option 2: Download ZIP
 
 Download the project directly:  
@@ -126,7 +124,6 @@ Download the project directly:
 2. Extract it  
 3. Open `index.html` in your browser  
 
----
 
 ### 🚀 Latest Release
 
