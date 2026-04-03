@@ -29,6 +29,9 @@ It’s a small project, but it captures something essential:
 ⭐ **Experience the website live here:**  
 👉 https://drum-kit-9l2y.vercel.app/
 
+⭐ **Read the Linkden Post:**  
+👉https://www.linkedin.com/feed/update/urn:li:activity:7445677720644243456/?originTrackingId=Hmlft0HRZQGXTVYM1Dx0sA%3D%3D
+
 <p align="center">
   <img src="./images/Preview.png" width="100%"/>
 </p>
