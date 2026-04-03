@@ -46,7 +46,6 @@ for (let i = 0; i < numOfDrumBtn; i++) {
 }
 
 document.addEventListener("keypress", function (e) {
-  console.log(e);
   switch (e.key.toLocaleLowerCase()) {
     case "w":
       let tom1 = new Audio("./sounds/tom-1.mp3");
