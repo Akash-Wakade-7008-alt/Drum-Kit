@@ -107,11 +107,32 @@ No frameworks. No dependencies. Just fundamentals.
 
 ## ⚙️ Local Setup
 
+### Option 1: Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/drum-kit.git
 cd drum-kit
 open index.html
 ```
+
+---
+
+### 📦 Option 2: Download ZIP
+
+Download the project directly:  
+👉 https://github.com/Akash-Wakade-7008-alt/Drum-Kit/releases/download/Drum-Kit-v1.0/Drum-Kit.zip
+
+1. Download the ZIP file  
+2. Extract it  
+3. Open `index.html` in your browser  
+
+---
+
+### 🚀 Latest Release
+
+View all releases here:  
+
+https://github.com/Akash-Wakade-7008-alt/Drum-Kit/releases
 
 Runs entirely in the browser—no build step required.
 
