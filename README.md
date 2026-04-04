@@ -27,7 +27,7 @@ It’s a small project, but it captures something essential:
 ## 🎬 Experience
 
 ⭐ **Experience the website live here:**  
-👉 https://drum-kit-9l2y.vercel.app/
+👉 https://akash-wakade-7008-alt.github.io/Drum-Kit/
 
 ⭐ **Read the Linkden Post:**  
 👉https://www.linkedin.com/feed/update/urn:li:activity:7445677720644243456/?originTrackingId=Hmlft0HRZQGXTVYM1Dx0sA%3D%3D
