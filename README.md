@@ -111,7 +111,9 @@ No frameworks. No dependencies. Just fundamentals.
 
 ```bash
 git clone https://github.com/Akash-Wakade-7008-alt/Drum-Kit.git
+
 cd drum-kit
+
 open index.html
 ```
 
