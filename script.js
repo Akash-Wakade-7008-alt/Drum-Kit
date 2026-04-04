@@ -42,6 +42,8 @@ for (let i = 0; i < numOfDrumBtn; i++) {
 
       default:
     }
+
+    BtnAnimation(btnInnerHTML);
   });
 }
 
@@ -79,9 +81,21 @@ document.addEventListener("keypress", function (e) {
 
     case "l":
       let snare = new Audio("./sounds/snare.mp3");
-      snare.play();
+      snare.play(e.key.toLocaleLowerCase());
       break;
 
     default:
   }
+
+  BtnAnimation(e.key.toLocaleLowerCase());
 });
+
+function BtnAnimation(currentKey) {
+  let activeBtn = document.querySelector("." + currentKey);
+
+  activeBtn.classList.add("pressed");
+
+  setTimeout(function () {
+    activeBtn.classList.remove("pressed");
+  }, 60);
+}
